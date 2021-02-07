@@ -1,0 +1,3 @@
+[submodule "portfoliotracker-application"]
+	path = portfoliotracker-application
+	url = git@github.com:olamattsson/portfoliotracker-application.git
